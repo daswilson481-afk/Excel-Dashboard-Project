@@ -72,7 +72,9 @@ The dashboard can be used to identify:
 - Weekly and monthly sales fluctuations
 
 ## 📁 Project Structure
-README.md
-Swiggy Dashboard.xlsx
-Swiggy_Sales_Dashboard.xlsx
-Swiggy_Dashboard..png
+swiggy-sales-analysis-dashboard/
+│
+├── README.md
+├── Swiggy_Sales_Dashboard.xlsx
+└── Images/
+    └── Swiggy_Dashboard.png
