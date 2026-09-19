@@ -71,7 +71,7 @@ The dashboard can be used to identify:
 - Food category performance
 - Weekly and monthly sales fluctuations
 - ## 📊 Swiggy Dashboard Preview
-![Swiggy Dashboard](Images/Swiggy_Dashboard.png)
+![Swiggy Dashboard](Swiggy_Dashboard..png)
 
 - ## 👨‍💻 Author
 **Wilson Das**
