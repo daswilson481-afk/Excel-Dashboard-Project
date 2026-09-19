@@ -70,7 +70,9 @@ The dashboard can be used to identify:
 - Order volume trends
 - Food category performance
 - Weekly and monthly sales fluctuations
-  
+- ## 📊 Swiggy Dashboard Preview
+![Swiggy Dashboard](Images/Swiggy_Dashboard.png)
+
 - ## 👨‍💻 Author
 **Wilson Das**
 
